@@ -1,5 +1,8 @@
 # Análise e Modelagem Preditiva de Popularidade de Filmes (TMDB)
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gabrielamb2k/FundamentosIA/blob/main/notebook.ipynb)
+
+Projeto prático desenvolvido para a disciplina de Inteligência Artificial, focado na aplicação de técnicas de Machine Learning para a predição da popularidade de filmes.
 Projeto prático desenvolvido para a disciplina de Inteligência Artificial, focado na aplicação de técnicas de Machine Learning para a predição da popularidade de filmes.
 
 ## 🎯 Objetivo
