@@ -20,6 +20,12 @@ Desenvolver uma aplicação de aprendizado de máquina capaz de prever a popular
 
 * **Dataset:** [TMDB Top 10000 Movies Updated 2026](https://www.kaggle.com/datasets/siddharthbhakta/tmdb-top-10000-movies-updated-2026)
 * **Plataforma:** Kaggle
+## 🎥 Vídeo de Apresentação
+
+A explicação completa do projeto, abrangendo a compreensão dos dados, justificativas técnicas e a interpretação dos resultados dos modelos, pode ser acessada abaixo.
+
+* 🎥 **Vídeo:** [Assistir à apresentação](https://drive.google.com/drive/folders/1Q_MMl69mj3eWzgJ5Q1J4_oTQ0d3nwfVn?usp=sharing)
+* 📊 **Dataset:** [TMDB Top 10000 Movies Updated 2026](https://www.kaggle.com/datasets/siddharthbhakta/tmdb-top-10000-movies-updated-2026)
 
 ## 🧠 Tipo da Tarefa
 
@@ -67,3 +73,13 @@ Gabriel Almeida Mota Bomfim: Implementação do código-fonte em Python, prepara
 Pedro Caldas de Souza Lucas Marques: Extração e consolidação das métricas de avaliação (MAE, MSE, RMSE, R²) e geração dos gráficos de análise de resíduos dos modelos.
 
 Carlos Henrico Fontes Cabral: Revisão metodológica, adequação do código para execução em nuvem (Google Colab), redação das justificativas teóricas, interpretação analítica dos resultados e organização geral da documentação no GitHub.
+
+
+## 🧠 Declaração de Uso de Ferramentas de Inteligência Artificial
+
+A ferramenta de Inteligência Artificial Gemini (do Google) foi utilizada ao longo deste projeto como suporte educacional.
+
+* **Ferramenta utilizada:** Gemini.
+* **Finalidade:** Consultoria teórica, revisão metodológica e auxílio na formatação da documentação em Markdown.
+* **Parte do trabalho em que foi utilizada:** A IA colaborou auxiliando na estruturação da ordem das análises e na formatação e estrutura do arquivo *README.md*.
+* **Forma de verificação do conteúdo:** Todas as análises, a implementação do código, a interpretação das métricas e as conclusões refletidas no vídeo e no documento final foram definidas de forma autoral pelo grupo e validadas através da execução técnica rigorosa no ambiente do Google Colab.
